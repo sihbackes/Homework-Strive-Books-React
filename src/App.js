@@ -8,7 +8,7 @@ import LatestRelease from "./components/LatestRelease";
 function App() {
   return (
     <div>
-      <MyNav />;
+      <MyNav />
       <MyFooter />
       <Welcome />
       <LatestRelease />
